@@ -23,5 +23,5 @@ node_modules/
 *.sqlite
 
 
-composer.json
+composer.lock
 vendor
